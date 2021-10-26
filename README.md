@@ -1,2 +1,2 @@
-# data-structures-in-real-life
-# Sudoku Puzzle
+data-structures-in-real-life
+Sudoku Puzzle
